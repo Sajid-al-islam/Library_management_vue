@@ -1,4 +1,4 @@
-# library
+# library_project
 
 ## Project setup
 ```
@@ -22,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# library_management_with_vue
